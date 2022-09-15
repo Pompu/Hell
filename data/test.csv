@@ -1,0 +1,12 @@
+Student,testuser,test1,12345,2022-09-08T17:20:50.755262300,false,reterte,null
+Staff,testja,test2,12345,2022-09-08T17:20:50.755262300,false,reterte,team
+Admin,adminja,admin01,45952,2022-09-08T17:20:50.755262300,null,null,null
+Student,testuser,test1,12345,2022-09-15T00:18:04.747205200,false,reterte,null
+Staff,testja,test2,12345,2022-09-15T00:18:04.747205200,false,reterte,team
+Admin,adminja,admin01,45952,2022-09-15T00:18:04.747205200,null,null,null
+Student,testuser,test1,12345,2022-09-15T00:18:29.308279500,false,reterte,null
+Staff,testja,test2,12345,2022-09-15T00:18:29.308279500,false,reterte,team
+Admin,adminja,admin01ฟกด่าสว,45952,2022-09-15T00:18:29.308279500,null,null,null
+Student,testuser,test1,12345,2022-09-15T00:25:38.334468200,false,reterte,null
+Staff,testja,test2,12345,2022-09-15T00:25:38.334468200,false,reterte,team
+Admin,adminja,admin01ฟกด่าสว,45952,2022-09-15T00:25:38.334468200,null,null,null
